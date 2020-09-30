@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋🎉
 
-<!--
-**deepdalsania/deepdalsania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here you'll find a many practicals of different languages and frameworks with very clear description. Also You'll find a solutions of hackerarnk problems and much more.
 
-Here are some ideas to get you started:
+---
+### 🔭 I’m currently working on
+SpringBoot, Java, Python, Salesforce
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 🌱 I’m currently learning
+Salesforce Developing, Machine Learning, Frontend Technologies
+
+---
+### 📢 Find me elsewhere
+<p align='left'>
+   <a href="https://www.linkedin.com/in/deepdalsania/"><img height="30" src="https://raw.githubusercontent.com/deepdalsania/deepdalsania/master//Linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/13351822/deep-dalsania"><img height="30" src="https://raw.githubusercontent.com/deepdalsania/deepdalsania/master/stackoverflow.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/DalsaniaDd"><img height="30" src="https://raw.githubusercontent.com/deepdalsania/deepdalsania/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+ <a href="https://www.instagram.com/deepdalsania/"><img height="30" src="https://raw.githubusercontent.com/deepdalsania/deepdalsania/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/deepdalsaniadd"><img height="30" src="https://raw.githubusercontent.com/deepdalsania/deepdalsania/master/facebook.png?raw=true"></a>&nbsp;&nbsp;
+ </p>
