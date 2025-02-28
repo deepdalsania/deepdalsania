@@ -15,6 +15,6 @@ Microservices, Frontend Technologies, DevOps
 <p align='left'>
    <a href="https://www.linkedin.com/in/deepdalsania/"><img height="30" src="https://raw.githubusercontent.com/deepdalsania/deepdalsania/master/Linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/13351822/deep-dalsania"><img height="30" src="https://raw.githubusercontent.com/deepdalsania/deepdalsania/master/stackoverflow.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/DalsaniaDd"><img height="30" src="https://raw.githubusercontent.com/deepdalsania/deepdalsania/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://x.com/DalsaniaDd"><img height="30" src="https://raw.githubusercontent.com/deepdalsania/deepdalsania/master/xlogo.png?raw=true"></a>&nbsp;&nbsp;
  <a href="https://www.instagram.com/deepdalsania/"><img height="30" src="https://raw.githubusercontent.com/deepdalsania/deepdalsania/master/instagram.png?raw=true"></a>&nbsp;&nbsp;
  </p>
