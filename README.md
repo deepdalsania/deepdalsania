@@ -8,7 +8,7 @@ SpringBoot, Java, Python, Salesforce
 
 ---
 ### 🌱 I’m currently learning
-Salesforce Developing, Machine Learning, Frontend Technologies
+Microservices, Frontend Technologies, DevOps
 
 ---
 ### 📢 Find me elsewhere
